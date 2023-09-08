@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome to my Portfolio👋
 
+My name is Valentin Patrakeev. 
+I'm an aspiring Junior Data Scientist
+
+This GitHub repository will serves as my portfolio.
+
+
+Currently in t
 <!--
 **ValentinPatrakeev/ValentinPatrakeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
