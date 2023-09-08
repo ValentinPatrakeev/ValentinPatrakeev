@@ -1,23 +1,13 @@
 ### Welcome to my Portfolio👋
 
-My name is Valentin Patrakeev. 
-I'm an aspiring Junior Data Scientist
+My contacts:
+* [patrakeevvalentin@gmail.com](mailto: patrakeevvalentin@gmail.com);
+* [LinkedIn](https://www.linkedin.com/in/valentin-patrakeev-157198123/);
+* [Telegram](https://t.me/PatrakeevVO)
 
+
+My name is Valentin Patrakeev. I'm an aspiring Junior Data Scientist 
 This GitHub repository will serves as my portfolio.
 
 
-Currently in t
-<!--
-**ValentinPatrakeev/ValentinPatrakeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
