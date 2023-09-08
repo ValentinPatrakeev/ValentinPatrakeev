@@ -12,14 +12,15 @@ My contacts:
 
 ---
 ### Skills
-- **Languages**: Python, SQL
-- **Technologie**s: Pandas, Numphy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
-- **Familiar with**: SQLALchemy, PostreSQL, Redash, FastAPI, Airflow, PyTorch, Pycharm, JupyterNotebook
+- **Languages**: `Python`, `SQL`
+- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`
+- **Technologie**s: Pandas, Numpy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
+- **Familiar with**: SQLALchemy, PostreSQL, Redash, FastAPI, Airflow, PyTorch, PyCharm, Jupyter Notebook
 ---
 
 
 ### [Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/tree/main/venv)
+- The project currently provides a social media post recommendation system.
 - This project focuses on feature preparation, gradient-boost algorithm training, and creating an API that would output recommendations in JSON format.
-- Tools & Technologies: `Python` `Jupyter` `Pandas` `Catboost` `FastAPI` `SQLAlchemy`
 
 ---
