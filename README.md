@@ -20,7 +20,7 @@ My contacts:
 
 
 ## Pet Project
-### [Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/tree/main/venv)
+### [Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/tree/main/Recommendation-system-social-network)
 - The project currently provides a social media post recommendation system.
 - This project focuses on feature preparation, gradient-boost algorithm training, and creating an API that would output recommendations in JSON format.
 
