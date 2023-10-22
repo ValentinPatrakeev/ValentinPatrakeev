@@ -13,7 +13,7 @@ My contacts:
 ---
 ### Skills
 - **Languages**: `Python`, `SQL`
-- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`, `XGBoost`, 'CatBoost'
+- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`, `XGBoost`, `CatBoost`
 - **Technologie**s: Pandas, Numpy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
 - **Familiar with**: SQLALchemy, PostreSQL, Redash, FastAPI, Airflow, PyTorch, PyCharm, Jupyter Notebook
 ---
