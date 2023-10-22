@@ -1,8 +1,8 @@
 ### Welcome to my Portfolio👋
 
 ---
-My name is Valentin Patrakeev. I'm an aspiring Junior Data Scientist 
-This GitHub repository will serves as my portfolio.
+My name is Valentin Patrakeev. I am a machine learning specialist
+This GitHub repository will serve as my portfolio.
 ---
 
 My contacts:
@@ -13,7 +13,7 @@ My contacts:
 ---
 ### Skills
 - **Languages**: `Python`, `SQL`
-- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`
+- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`, `XGBoost`, 'CatBoost'
 - **Technologie**s: Pandas, Numpy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
 - **Familiar with**: SQLALchemy, PostreSQL, Redash, FastAPI, Airflow, PyTorch, PyCharm, Jupyter Notebook
 ---
