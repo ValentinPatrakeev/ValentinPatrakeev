@@ -1,13 +1,8 @@
+### Hello I'm Valentin Patrakeev. 
+### I am a machine learning specialist
 
----
-Hello I'm Valentin Patrakeev. 
-<h1>
-I am a machine learning specialist
-Welcome to my portfolio!
----
-
+#### Welcome to my portfolio!
 <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width='200'/>
-
 
 My contacts:
 * ✉ [patrakeevvalentin@gmail.com](mailto:patrakeevvalentin@gmail.com) 
