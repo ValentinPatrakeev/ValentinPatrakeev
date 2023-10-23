@@ -1,9 +1,11 @@
+
 ---
 Hello I'm Valentin Patrakeev. 
 I am a machine learning specialist
+welcome to my portfolio!
 ---
 
-<img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width='100'/>
+<img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width='200'/>
 
 
 My contacts:
