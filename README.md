@@ -1,8 +1,9 @@
 
 ---
 Hello I'm Valentin Patrakeev. 
+<h1>
 I am a machine learning specialist
-welcome to my portfolio!
+Welcome to my portfolio!
 ---
 
 <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width='200'/>
