@@ -1,7 +1,6 @@
-### Welcome to my Portfolio👋
 
 ---
-My name is Valentin Patrakeev. I am a machine learning specialist
+I'm Valentin Patrakeev. I am a machine learning specialist
 This GitHub repository will serve as my portfolio.
 ---
 
