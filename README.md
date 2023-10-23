@@ -3,7 +3,7 @@ Hello I'm Valentin Patrakeev.
 I am a machine learning specialist
 ---
 
-<img src="https://giphy.com/gifs/90s-drawing-welcome-9JrkkDoJuU0FbdbUZU" width='500'/>
+<img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width='500'/>
 
 
 My contacts:
