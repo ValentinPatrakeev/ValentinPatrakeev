@@ -1,5 +1,5 @@
 ### Hello I'm Valentin Patrakeev. 
-### I am a machine learning specialist
+### I'm a machine learning specialist
 
 #### Welcome to my portfolio!
 <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width='200'/>
@@ -11,6 +11,7 @@ My contacts:
 
 ---
 ### Skills
+<img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
 - **Languages**: `Python`, `SQL`
 - **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`, `XGBoost`, `CatBoost`
 - **Technologie**s: Pandas, Numpy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
