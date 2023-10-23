@@ -1,8 +1,10 @@
+---
+Hello I'm Valentin Patrakeev. 
+I am a machine learning specialist
+---
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/90s-drawing-welcome-9JrkkDoJuU0FbdbUZU" width='500'/>
 
----
-I'm Valentin Patrakeev. I am a machine learning specialist
-This GitHub repository will serve as my portfolio.
----
 
 My contacts:
 * ✉ [patrakeevvalentin@gmail.com](mailto:patrakeevvalentin@gmail.com) 
