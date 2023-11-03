@@ -24,5 +24,5 @@ My contacts:
 | Project name | Description | Presented in the project |
 |----------------|-----------------|-----------------|
 |[Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/) | The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks) <br> 2) PostgreSQL  <br> 2) LogReg, Catboost <br> 3) FastAPI <br> 4) Test Postman |
-|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | project in process  <br> |
+|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks) <br> 2) LogReg, CatBoost, XGBC, LGBMC, RandomForest, HistGradient Optuna |
 |[KickStarter](https://github.com/ValentinPatrakeev/ML-projects/tree/main/KickStarter)| Predicting the success of a crowdfunding platform|1) EDA, Data Preprocessing, Feature Engineering  <br> 2) Comparison of several models <br> |
