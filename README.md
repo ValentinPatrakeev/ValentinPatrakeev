@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm Valentin Patrakeev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="330">
 
 ### I'm a Machine Learning engineer
 
@@ -21,6 +21,6 @@ My contacts:
 
 | Project name | Description | Presented in the project |
 |----------------|-----------------|-----------------|
-|[Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/)  | The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, LogReg, Catboost, FastAPI, Test Postman |
-|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), LogReg, CatBoost, XGBC, LGBMC, RandomForest, HistGradient, Optuna |
-|[KickStarter](https://github.com/ValentinPatrakeev/ML-projects/tree/main/KickStarter)| Predicting the success of a crowdfunding platform|1) EDA, Data Preprocessing, Feature Engineering  <br> 2) Comparison of several models <br> |
+|[Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/)  | The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, LogReg, Catboost, FastAPI, Test Postman |
+|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), LogReg, CatBoost, XGBC, LGBMC, RandomForest, HistGradient, Optuna |
+|[KickStarter](https://github.com/ValentinPatrakeev/ML-projects/tree/main/KickStarter)| Predicting the success of a crowdfunding platform| EDA, Data Preprocessing, Feature Engineering, LogReg, Catboost, GridSearchCV <br/>Comparison of several models <br> |
