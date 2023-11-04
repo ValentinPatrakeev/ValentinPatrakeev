@@ -12,10 +12,8 @@ My contacts:
 ---
 ### Skills :hammer_and_wrench:
 
-- **Languages**: `Python`, `SQL`
-- **ML skills**: `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `k-Nearest Neighbor`, `XGBoost`, `CatBoost`
-- **Technologie**s: Pandas, Numpy, Matplotlib, Scipy, Sklearn, Git, Command-line(linux/Ubuntu)
-- **Familiar with**: SQLALchemy, PostreSQL, Redash, FastAPI, Airflow, PyTorch, PyCharm, Jupyter Notebook
+- **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`, `Command-line`
+- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `Optuna`
 ---
 
 
@@ -23,6 +21,6 @@ My contacts:
 
 | Project name | Description | Presented in the project |
 |----------------|-----------------|-----------------|
-|[Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/) | The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks) <br> 2) PostgreSQL  <br> 2) LogReg, Catboost <br> 3) FastAPI <br> 4) Test Postman |
-|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks) <br> 2) LogReg, CatBoost, XGBC, LGBMC, RandomForest, HistGradient Optuna |
+|[Recommendation-system-social-network](https://github.com/ValentinPatrakeev/Recommendation-system-social-network/)  | The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, LogReg, Catboost, FastAPI, Test Postman |
+|[Equipments-Failures](https://github.com/ValentinPatrakeev/Equipments-Failures)| Prediction of equipment breakdown/failure | 1) EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), LogReg, CatBoost, XGBC, LGBMC, RandomForest, HistGradient, Optuna |
 |[KickStarter](https://github.com/ValentinPatrakeev/ML-projects/tree/main/KickStarter)| Predicting the success of a crowdfunding platform|1) EDA, Data Preprocessing, Feature Engineering  <br> 2) Comparison of several models <br> |
